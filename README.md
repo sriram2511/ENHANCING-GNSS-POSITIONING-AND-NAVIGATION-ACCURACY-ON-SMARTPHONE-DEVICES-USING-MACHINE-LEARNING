@@ -5,8 +5,7 @@ Accurate positioning and navigation on smartphones are essential for modern life
 
 ## 2. Introduction
 
-The widespread adoption of smartphones has transformed how we interact with the world, relying heavily on Global Navigation Satellite Systems (GNSS) like GPS for precise geographical positioning. Despite the benefits, challenges such as signal disruptions in urban areas and limited satellite visibility in remote locations affect the accuracy of GPS data on smartphones. This research focuses on using machine learning to enhance GNSS positioning and navigation accuracy, providing users with more reliable location information, especially in challenging environments.
-  ![image](https://github.com/sriram2511/ENHANCING-GNSS-POSITIONING-AND-NAVIGATION-ACCURACY-ON-SMARTPHONE-DEVICES-USING-MACHINE-LEARNING/assets/125891471/a1a7c6fb-fb8b-47f9-b9ec-dffc08e2d087)
+The widespread adoption of smartphones has transformed how we interact with the world, relying heavily on Global Navigation Satellite Systems (GNSS) like GPS for precise geographical positioning. Despite the benefits, challenges such as signal disruptions in urban areas and limited satellite visibility in remote locations affect the accuracy of GPS data on smartphones. This research focuses on using machine learning to enhance GNSS positioning and navigation accuracy, providing users with more reliable location information, especially in challenging environments.![image](https://github.com/sriram2511/ENHANCING-GNSS-POSITIONING-AND-NAVIGATION-ACCURACY-ON-SMARTPHONE-DEVICES-USING-MACHINE-LEARNING/assets/125891471/a1a7c6fb-fb8b-47f9-b9ec-dffc08e2d087)
 
 ## 3. Methodology
 
